@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution page](https://your-solution-url.com)
-- Live Site URL: [Live Site Demo](https://your-live-site-url.com)
+- Solution URL: [solution page](https://www.frontendmentor.io/solutions/responsive-component-with-html-and-css-YxHsTiHj2u)
+- Live Site URL: [Live Site Demo](https://jewebdev.github.io/order-summary-component/)
 
 ## My process
 
@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@JEWebDev](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@JEWebDev](https://www.frontendmentor.io/profile/JEWebDev)
